@@ -5,6 +5,6 @@
 
 <?php
 if(isset($_POST['Submit'])){
-    <img src="img/1.jpg" width="300">
+    "<img src="img/1.jpg" width="300">"
 }
 ?>

@@ -9,7 +9,7 @@
 
     <h1>ภาคภูมิ 66010914015(แมน) </h1>
     <br>
-    <img src="img/1.png" width="80">
+    <img src="img/1.png" width="200">
 
 </body>
 </html>

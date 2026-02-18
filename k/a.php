@@ -1,24 +1,10 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>ภาคภูมิ 66010914015(แมน)</title>
-</head>
-
-<body>
-
-    <h1>ภาคภูมิ 66010914015(แมน) </h1>
-    <br>
-
-    <button type="submit" name="Submit" onclick=<img src='img/1.jpg'width='250'>OK</button>
+<h1>Pakphoom  Wannachai</h1>
+<form method="post" action="">
+    <button type="submit" name="Submit">OK✅</button>
+</form>
 
 <?php
-
 if(isset($_POST['Submit'])){
-  
-    echo "<img src='img/1.jpg'width='250'";
+    echo "img src='img/1.jpg'";
 }
-
 ?>
-</body>
-</html>

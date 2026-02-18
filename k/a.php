@@ -1,10 +1,17 @@
 <h1>Pakphoom  Wannachai</h1>
-<form method="post" action="">
+
     <button type="submit" name="Submit">OK✅</button>
-</form>
+
+
+    <button type="submit" name="Submit2">OK2</button>
 
 <?php
 if(isset($_POST['Submit'])){
-    "<img src="img/1.jpg" width="300">"
+    "<img src='img/1.jpg' width='250'><hr>";
+}
+?>
+<?php
+if(isset($_POST['Submit'])){
+    "<img src='img/1.jpg' width='250'><hr>";
 }
 ?>
